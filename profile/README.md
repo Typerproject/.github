@@ -1,7 +1,6 @@
 ## 신한투자증권 프론트엔드 프로젝트 2조
 
 
-# Team Member
 
 # Team Member
 
@@ -14,25 +13,20 @@
     <td><strong>박경진</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/d5e085cb-9dd1-4490-89c2-50cbc2e1d743
-" alt="서제호" width="100" height="100"></td>
-    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/fcb9f0b9-28a0-46c8-8b78-b4c8e5e86b38
-" alt="오재현" width="100" height="100"></td>
-    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/70dceec1-b53b-4db9-8139-161d707c3a03
-" alt="김나현" width="100" height="100"></td>
-    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/102c8453-4753-4d23-a7da-10f2904e97e2
-" alt="정원우" width="100" height="100"></td>
-    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/4ce7b95b-2b84-4cd7-bd6f-ab884628348d
-" alt="박경진" width="100" height="100"></td>
+    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/d5e085cb-9dd1-4490-89c2-50cbc2e1d743" alt="서제호" width="100" height="100"></td>
+    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/fcb9f0b9-28a0-46c8-8b78-b4c8e5e86b38" alt="오재현" width="100" height="100"></td>
+    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/70dceec1-b53b-4db9-8139-161d707c3a03" alt="김나현" width="100" height="100"></td>
+    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/102c8453-4753-4d23-a7da-10f2904e97e2" alt="정원우" width="100" height="100"></td>
+    <td><img src="https://github.com/alphacoproject/.github/assets/127959482/4ce7b95b-2b84-4cd7-bd6f-ab884628348d" alt="박경진" width="100" height="100"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/lemonticsoul">@lemonticsoul"</a></td>
-    <td><a href="https://github.com/yapyap2">@yapyap2</a></td>
+    <td><a href="https://github.com/lemonticsoul">@lemonticsoul</a></td>
     <td><a href="https://github.com/jody816">@jody816</a></td>
-    <td><a href="https://github.com/janjinn">@janjinn</a></td>
     <td><a href="https://github.com/Nahyeonnnn">@Nahyeonnnn</a></td>
+    <td><a href="https://github.com/yapyap2">@yapyap2</a></td>
+    <td><a href="https://github.com/janjinn">@janjinn</a></td>
   </tr>
-
+</table>
 
 # Commit Message
 
