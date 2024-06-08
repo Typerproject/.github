@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td>팀장<strong>서제호</strong></td>
+    <td><strong>서제호</strong></td>
     <td><strong>오재현</strong></td>
     <td><strong>김나현</strong></td>
     <td><strong>정원우</strong></td>
