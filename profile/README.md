@@ -47,26 +47,38 @@
 ![mainpage-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/228db6e0-2f8e-4c69-835a-c795e277ce11)
 
 ## 📋 상세페이지
+![postDetail-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/d6762ee0-d181-4768-b5f2-a76a96ba955f)
 
 ## ✨에디터
 
 ### 주가 차트 불러오기
 종목이름, 기간, 기간 설정을 통해 주가차트를 간편하게 가져올 수 있습니다!
+![2024-06-283 58 00-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/c60fd398-6275-4d51-887d-1c9347c57d00)
 
 
 ### 애널리스트 리포트 불러오기
 기업이름, 기간 설정을 통해 해당 기간 내의 리포트 리스트를 가져옵니다. <br />
 해당 리스트에서 리포트를 선택하고 글에 첨부하고 싶은 부분을 간편하게 캡처해서 글에 첨부할 수 있습니다!
+![link_report-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/4ee2daa7-3502-4b9c-8f3a-198700d9b2c3)
+
 ### 재무제표 불러오기
 기업이름, 매출액/당기순이익/유동부채 등의 요소, 기간을 설정해서 재무제표를 간편하게 가져올 수 있습니다!
+![financial-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/f68b639d-8200-469d-ac80-2a445c7314a2)
+
 ### 공시 불러오기
 기업이름과 종목, 기간을 설정해서 해당 기간 내의 공시 문서를 가져옵니다. <br />
 해당 리스트에서 문서를 선택하고 해당 문서 내에서 블로그에 첨부하고 싶은 요소들을 선택해서 간편하게 글에 첨부할 수 있습니다!
+![disclosure_postWrite-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/c5834511-cde1-4a7e-9df3-55347e1610f6)
+
 <br />
 ## ✨커뮤니티
 - 마음에 드는 글 스크랩하기 <br />
 - 댓글달기 <br />
 - 글쓴이 팔로우하기 <br />
+
+## 마이페이지, post 수정
+![postEdit-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/8b883014-7f75-43a4-8c14-384195dbc62f)
+![search-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/7ddfb715-d78c-4f10-9119-e4991b335083)
 
 <br />
 
