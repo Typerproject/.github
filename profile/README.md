@@ -69,11 +69,11 @@
 해당 리스트에서 문서를 선택하고 해당 문서 내에서 블로그에 첨부하고 싶은 요소들을 선택해서 간편하게 글에 첨부할 수 있습니다!
 ![disclosure_postWrite-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/c5834511-cde1-4a7e-9df3-55347e1610f6)
 
-<br />
-##  ✨커뮤니티
-- 마음에 드는 글 스크랩하기 <br />
-- 댓글달기 <br />
-- 글쓴이 팔로우하기 <br />
+## ✨커뮤니티
+- 마음에 드는 글 스크랩하기
+- 댓글달기
+- 글쓴이 팔로우하기
+
 ![2024-06-284 23 25-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/9662ba57-7aba-4755-9cf1-3bf2ab294cad)
 
 
