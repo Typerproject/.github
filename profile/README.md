@@ -85,6 +85,10 @@
 
 <br />
 
+# 구조도
+![2조_flow_chart](https://github.com/Typerproject/.github/assets/117283341/c62eea03-bd5c-4560-8a8d-ec276dc30c00)
+
+
 # Commit Message
 
 | 이모지 | 유형        | 설명                                                   | 예시                                              |
