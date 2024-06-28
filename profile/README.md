@@ -78,6 +78,8 @@
 
 ## 마이페이지, post 수정
 ![postEdit-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/8b883014-7f75-43a4-8c14-384195dbc62f)
+
+## 검색 페이지
 ![search-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/7ddfb715-d78c-4f10-9119-e4991b335083)
 
 <br />
