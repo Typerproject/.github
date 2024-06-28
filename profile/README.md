@@ -36,6 +36,7 @@
 주식 투자자들을 위한 주식일지 작성 사이트 입니다! <br />
 기존에 주식 차트, 리포트 이미지 등 하나하나 캡처해서 넣어야하는 불편함을 해결해줍니다.
 <br />
+<br />
 <img src="https://github.com/Typerproject/Frontend/assets/92127658/8fd4e675-02ae-4777-8321-561f36521535" height="800">
 
 <br />
