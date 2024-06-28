@@ -55,7 +55,6 @@
 종목이름, 기간, 기간 설정을 통해 주가차트를 간편하게 가져올 수 있습니다!
 ![2024-06-283 58 00-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/c60fd398-6275-4d51-887d-1c9347c57d00)
 
-
 ### 애널리스트 리포트 불러오기
 기업이름, 기간 설정을 통해 해당 기간 내의 리포트 리스트를 가져옵니다. <br />
 해당 리스트에서 리포트를 선택하고 글에 첨부하고 싶은 부분을 간편하게 캡처해서 글에 첨부할 수 있습니다!
@@ -71,10 +70,12 @@
 ![disclosure_postWrite-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/c5834511-cde1-4a7e-9df3-55347e1610f6)
 
 <br />
-## ✨커뮤니티
+##  ✨커뮤니티
 - 마음에 드는 글 스크랩하기 <br />
 - 댓글달기 <br />
 - 글쓴이 팔로우하기 <br />
+![2024-06-284 23 25-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/9662ba57-7aba-4755-9cf1-3bf2ab294cad)
+
 
 ## 마이페이지, post 수정
 ![postEdit-ezgif com-video-to-gif-converter](https://github.com/Typerproject/.github/assets/117283341/8b883014-7f75-43a4-8c14-384195dbc62f)
